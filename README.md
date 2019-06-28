@@ -1,26 +1,18 @@
-# redux-saga-beginner-tutorial
-Companion Repo for [Redux/Redux-saga beginner tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
+# redux-saga-counter
 
-# Instructions
+A React counter app using Redux and Saga.
 
-Setup
+Based on the following tutorial: [Redux/Redux-saga beginner tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
+
+## Get started
 
 ```
-// clone the repo
-git clone https://github.com/redux-saga/redux-saga-beginner-tutorial.git
-
-cd redux-saga-beginner-tutorial
-
 npm install
-```
-
-Run the demo
-
-```
 npm start
+open http://localhost:9966/
 ```
 
-Run tests
+Run tests with:
 
 ```
 npm test
